@@ -1,2 +1,2 @@
-# tdd-integrado
-TDD Lab
+# eclipse-lab
+Eclipse + Git integration
